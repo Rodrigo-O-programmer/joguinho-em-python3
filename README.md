@@ -1,4 +1,4 @@
-# Jjoguinho em python
+# Joguinho em python
 ---
 Descidir criar como brincadeira um joguinho de teste da tabuada do 4 e 7. 
 Por que eu descidir começar com algo tão simples? Descidir começar desta forma para ir melhorando de forma gradativa o jogo.
